@@ -22,8 +22,11 @@ from your command line to start a server. From there, simply refresh the preview
 ### Bonus Challenges
 
 **1.** Style the results page so it matches the index.
-**2.** Make the results page output a picture and a description of the gemstone in addition to the name of the birthstone
-**3.** Create an "About" page with similar styling and link it to the index
-**4.** Make your own web application (remember, it must take input and output manipulated data)
+
+**2.** Make the results page output a picture and a description of the gemstone in addition to the name of the birthstone.
+
+**3.** Create an "About" page with similar styling and link it to the index.
+
+**4.** Make your own web application (remember, it must take input and output manipulated data).
 
 
