@@ -1,13 +1,7 @@
----
-tags: kids, mvc
-languages: ruby
-type: interactive practice
----
 
-##Interactive Practice: Model-View-Controller
 
-Fork and clone this repository and follow along in lecture!
+###Sinatra Birthstone Lab
 
-(WIP)
+The goal of this lab is to create a web application that takes in a user's birth month, and outputs their birthstone. Some of the styling has been done for you, but the rest needs to be created in model.rb, application_controller.rb, index.erb, and results.erb.
 
 
