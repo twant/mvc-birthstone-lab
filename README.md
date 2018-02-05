@@ -27,6 +27,7 @@ from your command line to start a server. From there, simply refresh the preview
 
 **3.** Create an "About" page with similar styling and link it to the index.
 
-**4.** Make your own web application (remember, it must take input and output manipulated data).
+**4.** Allow the user to input their full birthday in the format mm/dd/yyyy. Then parse through to determine both their birthmonth, and horoscope sign. 
+
 
 
